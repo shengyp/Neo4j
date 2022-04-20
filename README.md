@@ -9,7 +9,7 @@ Table of Contents
 =================
 
 
-  * [Survey](#Survey)
+  * [Neo4j Community](#Neo4j_Community)
   * [Development Trend](#Development_Trend)  
   * [Multilingual Text Analysis](#Multilingual_Text_Analysis)
   * [Expert Talks](#Expert_Talks)
@@ -23,17 +23,6 @@ Table of Contents
 
 
 3. 吴江, 曹喆, 陈佩, 贺超城, 柯 丹. **元宇宙视域下的用户信息行为: 框架与展望**. 信息资源管理学报 2022. [[Paper]](http://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/article/openArticlePDF.jsp?id=5714)
-
-
-4. 向安玲, 高爽, 彭影彤, 沈阳. **知识重组与场景再构： 面向数字资源管理的元宇宙**. 图书情报知识 2022. [[Paper]](http://dik.whu.edu.cn/jwk3/tsqbzs/CN/article/openArticlePDF.jsp?id=5729)
-
-
-5. 史元春. **元宇宙需要人机交互的突破**. 学会通讯 2022. [[Paper]](https://pi.cs.tsinghua.edu.cn/wp-content/uploads/2022/02/%E5%85%83%E5%AE%87%E5%AE%99%E9%9C%80%E8%A6%81%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E7%9A%84%E7%AA%81%E7%A0%B4-CAAI.pdf)
-
-
-## Development_Trend
-1. **元宇宙将有750亿新人类？新智元发布《中国AI和元宇宙产业七大趋势》及2021创新大奖**. 新智元 2022. [[Report]](https://mp.weixin.qq.com/s/1Eax2tIvCo1jxhY-B294JQ)
-
 
 
 
@@ -56,10 +45,6 @@ Table of Contents
 
 
 
-## Digital_Education_for_Knowledge_Graphs 
-1. 郭文革 等. **教育数字化战略行动枢纽工程：基于知识图谱的新型教材建设**. [[Paper]](https://mp.weixin.qq.com/s/BKVEafmwBGKYxdykh-qJ3w)
-
-
 
 <!-- [和AI结对编程！OpenAI与GitHub联手推出AI代码生成工具，比GPT-3更强大](https://mp.weixin.qq.com/s/6ZKdBPgv6pZ1aE4o0XRBig) -->
 
@@ -78,16 +63,5 @@ Table of Contents
 
 3. [元宇宙是不是个坑？跟人工智能和数字经济是啥关系？](https://mp.weixin.qq.com/s/qe9AksxtRgX4Py-IWpyeWQ) 2022.03.13
 
-
-4. [张新长教授 | 智慧城市建设中的数字孪生与元宇宙](https://mp.weixin.qq.com/s/AuEyPJIJ_jBmLLWpHJC3-Q). 2022.03.30
-
-
-5. [国家信息中心单志广：元宇宙将成为数字经济未来发展的重要载体和综合场景](https://mp.weixin.qq.com/s/fWSvoiXZq8zEBsGlpR_Hpg). 2022.04.01
-
-
-6. [深度了解军事元宇宙：一个空洞的流行词还是美国五角大楼的虚拟资源？](https://mp.weixin.qq.com/s/A753CkceTYUmx-KaFXUM2w) 2022.04.18
-
-
-7. [元宇宙的当下与未来](https://mp.weixin.qq.com/s/W159-xDvW2Qx73LlEP5S5Q). 2022.04.20
 
 
