@@ -15,6 +15,8 @@ Table of Contents
   * [Neo4j Demos](#Neo4j_Demos)
   * [Cypher Query](#Cypher_Query)
   * [Neo4j Clusters](#Neo4j_Clusters)
+  * [Exams on Neo4j](#Exams_on_Neo4j)
+
 
 
 ## Introduction_to_Neo4j
@@ -64,6 +66,12 @@ Table of Contents
 
 ## Neo4j_Clusters
 1. **从《金融信息系统多活技术规范》看Neo4j企业版集群技术**. 2022.03.10. [[Report]](https://blog.csdn.net/GraphWay/article/details/123403994)
+
+
+
+## Exams_on_Neo4j
+1. **听说你还不知道 Neo4j 的免费考试认证**. 2022.04.20. [[Report]](https://mp.weixin.qq.com/s/_ctXiOu1JU8_Q-g3NttaCA)
+
 
 
 
