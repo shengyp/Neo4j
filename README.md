@@ -16,7 +16,7 @@ Table of Contents
   * [Cypher Query](#Cypher_Query)
   * [Neo4j Clusters](#Neo4j_Clusters)
   * [Exams on Neo4j](#Exams_on_Neo4j)
-  * [Neo4j lessions](#Neo4j_lessions)
+  * [Neo4j Lessions](#Neo4j_Lessions)
 
 
 ## Introduction_to_Neo4j
@@ -74,7 +74,7 @@ Table of Contents
 
 
 
-## Neo4j_lessions
+## Neo4j_Lessions
 1. **GraphAcademy 课程讲解：《Neo4j 图数据科学简介》**. 2022.06.02. [[Report]](https://mp.weixin.qq.com/s/scuR5gBYgVXpKVyOWnvoZQ)
 
 
