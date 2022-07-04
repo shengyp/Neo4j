@@ -17,6 +17,7 @@ Table of Contents
   * [Neo4j Clusters](#Neo4j_Clusters)
   * [Exams on Neo4j](#Exams_on_Neo4j)
   * [Neo4j Lessions](#Neo4j_Lessions)
+  * [Neo4j Competitions](#Neo4j_Competitions)
 
 
 ## Introduction_to_Neo4j
@@ -76,5 +77,12 @@ Table of Contents
 
 ## Neo4j_Lessions
 1. **GraphAcademy 课程讲解：《Neo4j 图数据科学简介》**. 2022.06.02. [[Report]](https://mp.weixin.qq.com/s/scuR5gBYgVXpKVyOWnvoZQ)
+
+
+
+## Neo4j_Competitions
+1. **欢迎来战，赢取奖金：Code Golf 代码高尔夫挑战赛**. 2022.07.04. [[Report]](https://mp.weixin.qq.com/s/DRkwBigFAlsuVb7AVpikLw)
+
+
 
 
