@@ -27,6 +27,9 @@ Table of Contents
 2. **Neo4j 不仅是数据库，而且是统一的图数据平台**. 2022.03.28. [[Report]](https://mp.weixin.qq.com/s/a69n4QSu_LAsfMFDIN1pUQ)
 
 
+3. **Neo4j 企业版与社区版的区别**. 2022.07.20. [[Report]](https://www.bilibili.com/video/BV1tS4y1f7pT/?spm_id_from=333.788.recommend_more_video.9&vd_source=c06526b797679eabaafcad12dbe7ccb1)
+
+
 
 ## Neo4j_Community
 1. **Neo4j 社区参与指南**. 2022.03.14. [[Report]](https://mp.weixin.qq.com/s/6BezaMyATgfslmSme2oIuQ)
