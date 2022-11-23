@@ -23,7 +23,7 @@ Table of Contents
 
 
 ## Book
-1. **图数据库技术丛书系列第四本 -「精通Neo4j」发布！**. 2022.11.23. [[Book]](https://mp.weixin.qq.com/s/lzk28CigN_TUyk9r9v3n4w)
+1. **图数据库技术丛书系列第四本 -「精通Neo4j」发布！** 2022.11.23. [[Book]](https://mp.weixin.qq.com/s/lzk28CigN_TUyk9r9v3n4w)
 
 
 
