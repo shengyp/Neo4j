@@ -8,6 +8,7 @@ Here, we are concentrate on a series of research papers relate to the Neo4j.
 Table of Contents
 =================
 
+  * [Book](#Book)
   * [Introduction to Neo4j](#Introduction_to_Neo4j)
   * [Neo4j Community](#Neo4j_Community)
   * [Neo4j Installment](#Neo4j_Installment)  
@@ -18,6 +19,12 @@ Table of Contents
   * [Exams on Neo4j](#Exams_on_Neo4j)
   * [Neo4j Lessions](#Neo4j_Lessions)
   * [Neo4j Competitions](#Neo4j_Competitions)
+
+
+
+## Book
+1. **图数据库技术丛书系列第四本 -「精通Neo4j」发布！**. 2022.11.23. [[Book]](https://mp.weixin.qq.com/s/lzk28CigN_TUyk9r9v3n4w)
+
 
 
 ## Introduction_to_Neo4j
